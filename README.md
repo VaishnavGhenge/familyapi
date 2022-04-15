@@ -2,6 +2,18 @@
 
 A Django REST framework-based web app allows CRUD operations on a database of families living in a building and their children linked with a foreign key in the database. It gives the list of families living, list of children, and complete family members with their children as a JSON response.
 
+Table with fields-
+Family
+    _id - auto int
+    surname - str
+    parent1 - str
+    parent2 - str
+    
+ Child
+     _id - auto int
+    name - str
+    family - foreignkey of Family
+
 1) API Review Page
 
    ![Screenshot 2022-04-15 191203](https://user-images.githubusercontent.com/62459983/163578472-58826b47-d320-422f-84fd-751436d1f577.png)
