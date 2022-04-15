@@ -15,4 +15,13 @@ A Django REST framework-based web app allows CRUD operations on a database of fa
 
    By visiting the very first link on first page we can see the full list of families living in partucular building with their family members including children
 
-3) TMP
+3) And then followed by family and child list seperately
+   
+   List of total families
+   
+   ![family-list](https://user-images.githubusercontent.com/62459983/163579041-057b32f9-d37e-4785-84b0-7a54870039cb.png)
+   
+   
+   List of total children
+   
+   ![child-list](https://user-images.githubusercontent.com/62459983/163579060-df57b7a9-5bfe-4195-980b-cb5148ee9884.png)
