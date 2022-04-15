@@ -25,3 +25,14 @@ A Django REST framework-based web app allows CRUD operations on a database of fa
    List of total children
    
    ![child-list](https://user-images.githubusercontent.com/62459983/163579060-df57b7a9-5bfe-4195-980b-cb5148ee9884.png)
+   
+ 4) And finally for adding/inserting new data in database forms for both children and families
+   
+   For inserting new family record
+   
+   ![create-family](https://user-images.githubusercontent.com/62459983/163590416-9bf31b03-899c-44dc-8b65-14e482c1710f.png)
+   
+   
+   For inserting new child record
+
+   ![image](https://user-images.githubusercontent.com/62459983/163590572-86087db2-af1f-40b0-813b-1698bb4cd0ce.png)
