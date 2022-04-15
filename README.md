@@ -28,11 +28,11 @@ A Django REST framework-based web app allows CRUD operations on a database of fa
    
  4) And finally for adding/inserting new data in database forms for both children and families
    
-   For inserting new family record
+    For inserting new family record
    
-   ![create-family](https://user-images.githubusercontent.com/62459983/163590416-9bf31b03-899c-44dc-8b65-14e482c1710f.png)
+    ![create-family](https://user-images.githubusercontent.com/62459983/163590416-9bf31b03-899c-44dc-8b65-14e482c1710f.png)
    
    
-   For inserting new child record
+     For inserting new child record
 
-   ![image](https://user-images.githubusercontent.com/62459983/163590572-86087db2-af1f-40b0-813b-1698bb4cd0ce.png)
+    ![image](https://user-images.githubusercontent.com/62459983/163590572-86087db2-af1f-40b0-813b-1698bb4cd0ce.png)
